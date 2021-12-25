@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "teste de REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniscmacedo/vsc_api_2.git"
+  },
+  "keywords": [
+    "node",
+    "vsc",
+    "git",
+    "rest",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniscmacedo/vsc_api_2/issues"
+  },
+  "homepage": "https://github.com/deniscmacedo/vsc_api_2#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
